@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="background_default">#ddd</color>
+    <color name="text_default">#111</color>
+    <color name="background_bar">#aaa</color>
+    <color name="text_notice">#333</color>
+
+</resources>

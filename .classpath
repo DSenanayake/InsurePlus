@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="D:/Soft/Programming/Java Libs/ksoap2-android-assembly-2.4-jar-with-dependencies.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Soft/Programming/Java Libs/json_simple-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/httpmime-4.3.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/httpclient-4.3.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/httpcore-4.3.3.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
